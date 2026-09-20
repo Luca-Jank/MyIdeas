@@ -6,5 +6,7 @@ Software Architecture, Architecture- / System- / Design-Patterns
 
 # Ideas for concrete projects
 - Software that makes it easy to document where on your PC files are stored. Imagine if you had a .txt File that automatically appends any new (and important) folder you create. Something like that, but graphically.
+=> This is called a file indexer of file instant search tool. They already exist. I should use one and see if it lacks anything I would like. 
+Use: Everything (voidtools)
 
 - All-In-One TODO App
